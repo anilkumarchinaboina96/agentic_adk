@@ -1,0 +1,5 @@
+google-adk[extensions]
+python-dotenv
+mcp>=1.24,<2
+pytrends
+pandas

@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+
+myenv/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+.adk/
